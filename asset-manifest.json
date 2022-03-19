@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/restCountry-react/static/css/main.b7a7063d.css",
+    "main.js": "/restCountry-react/static/js/main.5312eca4.js",
+    "static/js/787.9f2d26ec.chunk.js": "/restCountry-react/static/js/787.9f2d26ec.chunk.js",
+    "index.html": "/restCountry-react/index.html",
+    "main.b7a7063d.css.map": "/restCountry-react/static/css/main.b7a7063d.css.map",
+    "main.5312eca4.js.map": "/restCountry-react/static/js/main.5312eca4.js.map",
+    "787.9f2d26ec.chunk.js.map": "/restCountry-react/static/js/787.9f2d26ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a7063d.css",
+    "static/js/main.5312eca4.js"
+  ]
+}
